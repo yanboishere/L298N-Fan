@@ -10,7 +10,9 @@
   
 （如有错误，敬请谅解。）
 
-[L298N 文档]()
+[L298N 文档](https://github.com/yanboishere/L298N-Fan/blob/master/%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99/L298N.pdf)
+
 [L298N 汇报PPT]()
+
 [代码]()：
 
