@@ -16,4 +16,4 @@
 
 [代码](https://github.com/yanboishere/L298N-Fan/blob/master/code/main.c)
 
-[L298N.pdf](https://github.com/yanboishere/L298N-Fan/files/11040577/L298N.pdf)
+[L298N 图示（个人绘图）](https://github.com/yanboishere/L298N-Fan/files/11040577/L298N.pdf)
